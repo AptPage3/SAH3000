@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "maxChars": {
+      "totalScoreText": 30,
+      "obtainedScoreText": 30
+    }
+  },
+  "en": {
+    "totalScoreText": "Total Score",
+    "obtainedScoreText": "Obtained Score:",
+    "enemyGoal" : "Enemy goal, you lose",
+    "points" : "Points",
+    "diskDestroyed" : "Disk destroyed by enemy, you lose"
+  },
+  "es": {
+    "totalScoreText": "Puntaje Total:",
+    "obtainedScoreText": "Puntaje Obtenido",
+    "enemyGoal" : "El enemigo anota, pierdes",
+    "points" : "Puntos",
+    "diskDestroyed" : "Disco destruido por el enemigo, pierdes"
+  }
+}
