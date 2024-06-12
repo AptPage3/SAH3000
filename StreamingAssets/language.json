@@ -2,11 +2,13 @@
   "_meta": {
     "maxChars": {
       "totalScoreText": 30,
-      "obtainedScoreText": 30
+      "obtainedScoreText": 30,
+      "highScoreText": 30
     }
   },
   "en": {
     "totalScoreText": "Total Score",
+    "highScoreText": "High Score:",
     "obtainedScoreText": "Obtained Score:",
     "enemyGoal" : "Enemy goal, you lose",
     "points" : "Points",
@@ -14,6 +16,7 @@
   },
   "es": {
     "totalScoreText": "Puntaje Total:",
+    "highScoreText": "Puntaje más alto:",
     "obtainedScoreText": "Puntaje Obtenido",
     "enemyGoal" : "El enemigo anota, pierdes",
     "points" : "Puntos",
