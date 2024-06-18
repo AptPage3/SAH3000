@@ -16,7 +16,7 @@
   },
   "es": {
     "totalScoreText": "Puntaje Total:",
-    "highScoreText": "Puntaje más alto:",
+    "highScoreText": "Puntaje mas alto:",
     "obtainedScoreText": "Puntaje Obtenido",
     "enemyGoal" : "El enemigo anota, pierdes",
     "points" : "Puntos",
